@@ -102,10 +102,9 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
+       "images/Chickenkatsu.jpg", 
        "images/food/Z meals/java fried rice.jpg", 
-       "images/home-bg-slideshow1.jpg", 
-       "images/home-bg-slideshow2.jpg",
-       "images/home-bg-slideshow3.jpg",
+       "images/drink/drink/Manual Brew/V60.jpg", 
         ],  {duration: 2000, fade: 750});
     });
   })
