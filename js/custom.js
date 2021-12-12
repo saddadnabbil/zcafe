@@ -102,7 +102,7 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/Chickenkatsu.jpg", 
+       "images/food/Z meals/java fried rice .jpg", 
        "images/home-bg-slideshow1.jpg", 
        "images/home-bg-slideshow2.jpg",
        "images/home-bg-slideshow3.jpg",
