@@ -104,7 +104,10 @@ $(document).ready(function() {
     $('#home').backstretch([
        "images/Chickenkatsu.jpg", 
        "images/food/Z meals/java fried rice.jpg", 
-       "images/drink/drink/Manual Brew/V60.jpg", 
+       "images/food/Z meals/Chicken Black papper sauce.jpg", 
+       "images/food/Z meals/menu-173.jpg", 
+       "images/food/Z meals/menu-19.jpg", 
+       "images/food/Z meals/menu-96.jpg", 
         ],  {duration: 2000, fade: 750});
     });
   })
